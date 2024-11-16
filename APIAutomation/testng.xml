@@ -1,0 +1,9 @@
+<suite name="Suite">
+	<test thread-count="2" name="test">
+		<classes>
+			<class name="Test.reportGeneration" />
+			<class name="Test.Test1" />
+			<class name="Test.Test2" />
+		</classes>
+	</test>
+</suite>
